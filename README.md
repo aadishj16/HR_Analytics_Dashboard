@@ -1,2 +1,4 @@
 # HR_Analytics_Dashboard
- Dive into insights about attrition based on education, salary, age, and gender. Let's understand why employees leave and how we can improve retention. 
+The project's dataset offers a comprehensive view of the workforce, encompassing education, age, salary, departments, promotions, and attrition status. By analyzing attrition rates across different dimensions, such as age groups, educational backgrounds, I aim to uncover trends and correlations that offer deeper insights.
+
+Delving into departmental trends, I highlighted attrition patterns within various sections of the organization, enabling targeted interventions. Additionally, the project investigates the connection of attrition with key areas like salary structures, promotions. 
